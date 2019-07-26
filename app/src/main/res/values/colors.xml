@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222222</color>
+    <color name="colorPrimaryDark">#111111</color>
+    <color name="colorAccent">#fecb2f</color>
+    <color name="opaque_red">#f00</color>
+    <color name="profile_meta">#333</color>
+    <color name="airline_name">#515151</color>
+    <color name="lbl_price">#787878</color>
+    <color name="departure">#dd000000</color>
+    <color name="tint_arrow">#6E6E6E</color>
+    <color name="duration">#dd595959</color>
+
+    <!--note App-->
+    <color name="msg_no_notes">#999</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+    <color name="timestamp">#858585</color>
+    <color name="note_list_text">#232323</color>
+
+    <!--contact App-->
+    <color name="contact_name">#333333</color>
+    <color name="contact_number">#8c8c8c</color>
+
+
+</resources>
